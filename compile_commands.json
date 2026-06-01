@@ -1,0 +1,47 @@
+[
+  {
+    "directory": "/home/ranag/chat-project",
+    "arguments": ["/usr/bin/gcc", "-Wall", "-Wextra", "-g", "-D_GNU_SOURCE", "-c", "client.c"],
+    "file": "/home/ranag/chat-project/client.c"
+  },
+  {
+    "directory": "/home/ranag/chat-project",
+    "arguments": ["/usr/bin/gcc", "-Wall", "-Wextra", "-g", "-D_GNU_SOURCE", "-c", "chat_window.c"],
+    "file": "/home/ranag/chat-project/chat_window.c"
+  },
+  {
+    "directory": "/home/ranag/chat-project",
+    "arguments": ["/usr/bin/gcc", "-Wall", "-Wextra", "-g", "-D_GNU_SOURCE", "-c", "chat_sender.c"],
+    "file": "/home/ranag/chat-project/chat_sender.c"
+  },
+  {
+    "directory": "/home/ranag/chat-project",
+    "arguments": ["/usr/bin/gcc", "-Wall", "-Wextra", "-g", "-D_GNU_SOURCE", "-c", "chat_receiver.c"],
+    "file": "/home/ranag/chat-project/chat_receiver.c"
+  },
+  {
+    "directory": "/home/ranag/chat-project",
+    "arguments": ["/usr/bin/gcc", "-Wall", "-Wextra", "-g", "-D_GNU_SOURCE", "-c", "ui.c"],
+    "file": "/home/ranag/chat-project/ui.c"
+  },
+  {
+    "directory": "/home/ranag/chat-project",
+    "arguments": ["/usr/bin/gcc", "-Wall", "-Wextra", "-g", "-D_GNU_SOURCE", "-c", "server.c"],
+    "file": "/home/ranag/chat-project/server.c"
+  },
+  {
+    "directory": "/home/ranag/chat-project",
+    "arguments": ["/usr/bin/gcc", "-Wall", "-Wextra", "-g", "-D_GNU_SOURCE", "-c", "user_mng.c"],
+    "file": "/home/ranag/chat-project/user_mng.c"
+  },
+  {
+    "directory": "/home/ranag/chat-project",
+    "arguments": ["/usr/bin/gcc", "-Wall", "-Wextra", "-g", "-D_GNU_SOURCE", "-c", "session_mng.c"],
+    "file": "/home/ranag/chat-project/session_mng.c"
+  },
+  {
+    "directory": "/home/ranag/chat-project",
+    "arguments": ["/usr/bin/gcc", "-Wall", "-Wextra", "-g", "-D_GNU_SOURCE", "-c", "group_mng.c"],
+    "file": "/home/ranag/chat-project/group_mng.c"
+  }
+]
