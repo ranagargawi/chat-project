@@ -6,10 +6,9 @@
    Every TCP message is exactly one Msg_t struct.
    ───────────────────────────────────────────── */
 
+#include "limits.h"
+
 #define SERVER_PORT   8080
-#define MAX_NAME_LEN  32
-#define MAX_PASS_LEN  32
-#define MAX_IP_LEN    16
 #define BACKLOG       10   /* max pending TCP connections the server queues */
 
 /* ── Message type codes ── */

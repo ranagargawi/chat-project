@@ -2,10 +2,9 @@
 #include <string.h>
 #include <pthread.h>
 
+#include "limits.h"
 #include "user.h"
 #include "user_mng.h"
-
-#define MAX_USERS 64
 
 typedef struct {
     User_t user;
